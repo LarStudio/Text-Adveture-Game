@@ -8,8 +8,6 @@ Mein Ziel war es, am Ende dieser Woche eine funktionierende State Machine zu hab
 <br />
 <br />
 Mein erster Versuch war es, diese State Machine auf einer Website zu machen. Da ich in diesem Bereich noch keine Erfahrungen hatte, habe ich zuerst sehr viel Neues, fundamentales lernen müssen. Ich habe mich über die drei Hauptelementen einer Webseite informiert. HTML, CSS und Java Script.
-<br />
-<br />
 Bei der Implementation von dem UI stiess ich auf die ersten Schwierigkeiten, vor allem, weil ich versuchte, ein anständiges Format mit den unterschiedlichen Bildschirmauflösungen herzustellen. (Die Knöpfe waren viel zu klein etc.) Rückblicken würde ich sagen, ich habe zu viel Zeit damit verbracht, diese Probleme versuchen zu lösen.
 <br />
 <br />
