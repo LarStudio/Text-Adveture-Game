@@ -6,6 +6,11 @@ In diesem Repository befinden sich nur die Scripts der jeweiligen Anläufe/ Prot
 
 
 
+
+
+
+
+
 Mein Ziel war es, am Ende dieser Woche eine funktionierende State Machine zu haben, die beliebig erweitert werden kann.
 
 Mein erster Versuch war es, diese State Machine auf einer Website zu machen. Da ich in diesem Bereich noch keine Erfahrungen hatte, habe ich zuerst sehr viel Neues, fundamentales lernen müssen. Ich habe mich über die drei Hauptelementen einer Webseite informiert. HTML, CSS und Java Script.
