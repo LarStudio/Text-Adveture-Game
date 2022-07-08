@@ -1,5 +1,5 @@
 # Text-Adveture-Game
-In diesem Repository befinden sich nur die Scripts der jeweiligen Anläufe/ Prototypen, da der Rest ohne Installation von Unity nicht viel Sinn machen würde bzw. nur verwirrend ist, nichts desto trotz kann ich auf Wunsch gerne auch den Rest hochladen.
+In diesem Repository befinden sich nur die Scripts der jeweiligen Anläufe/ Prototypen, da der Rest ohne Installation von Unity nicht viel Sinn machen würde bzw. nur verwirrend wäre, nichts desto trotz kann ich auf Wunsch gerne auch den Rest hochladen.
 <br />
 <br />
 <br />
