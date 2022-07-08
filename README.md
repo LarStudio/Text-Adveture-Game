@@ -1,5 +1,5 @@
 # Text-Adveture-Game
-In diesem Repository befinden sich die Scripts der jeweiligen Anläufe/ Prototypen unter anderem auch die einzelnen Unity Projekte, welche mit einer Installation von Unity geöffnet werden können. 
+In diesem Repository befinden sich die Scripts der jeweiligen Anläufe/ Prototypen unter anderem auch die einzelnen Unity Projekte, welche mit Unity geöffnet werden können. 
 <br />
 <br />
 <br />
