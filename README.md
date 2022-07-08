@@ -12,8 +12,6 @@ Bei der Implementation von dem UI stiess ich auf die ersten Schwierigkeiten, vor
 <br />
 <br />
 Später bin ich dann doch zu C# in Unity gewechselt. Dies habe ich hauptsächlich getan, damit ich sicher gehen kann, dass ich mein Wochenziel erreichen werde. (Da ich in C# schon klare Lösungen vor mir sah bzw. erfahrener war)
-<br />
-<br />
 Dies lief dann auch wie geplant, und ich hatte eine funktionierende State Machine vor Ende Woche.
 Anschliessend wollte ich noch einen anderen Weg probieren, der mir vor allem das Erweitern der State Machine noch einfacher machen sollte. Ich habe diesen Weg nicht von Anfang gewählt, da ich mir nicht so sicher wie beim ersten war, ob er auch tatsächlich funktionieren wird.
 Schlussendlich funktionierte aber auch dieser, und da ich noch übrige Zeit hatte, begann ich mit der Implementation von ersten Erweiterungen. Wie zum Beispiel, dass es mir möglich, die Schriftart und Schriftgrösse aller Textfelder in meinem Projekt «auf einen Klick» zu ändern, (war zuvor wegen einigen Kompromissen nicht möglich). Diese gelang mir ebenfalls.
