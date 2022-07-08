@@ -1,5 +1,5 @@
 # Text-Adveture-Game
-In diesem Repository befinden sich nur die Scripts der jeweiligen Anläufe/ Prototypen, aber nicht die ganzen Unityprojekte, auf Nachfrage kann ich diese Repository auch sharen.
+In diesem Repository befinden sich nur die Scripts der jeweiligen Anläufe/ Prototypen, aber nicht die ganzen Unityprojekte, auf Wunsch kann ich diese Repository auch sharen.
 <br />
 <br />
 <br />
