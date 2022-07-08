@@ -16,7 +16,7 @@ Später bin ich dann doch zu C# in Unity gewechselt. Dies habe ich hauptsächlic
 Dies lief dann auch wie geplant, und ich hatte eine funktionierende State Machine vor Ende Woche.
 <br /><br />
 Anschliessend wollte ich noch einen anderen Weg probieren, der mir vor allem in Zukunft das Erweitern der State Machine erleichtern sollte. Ich habe diesen Weg nicht von Anfang gewählt, da ich mir nicht sicher war, ob er auch tatsächlich funktionieren wird.
-Schlussendlich funktionierte aber auch dieser, und da ich noch übrige Zeit hatte, begann ich mit der Implementation von ersten Erweiterungen. Wie zum Beispiel, dass es mir möglich ist, die Schriftart und Schriftgrösse aller Textfelder in meinem Projekt «auf einen Klick» zu ändern, (war zuvor wegen einigen Kompromissen nicht möglich). Diese gelang mir ebenfalls.
+Schlussendlich funktionierte aber auch dieser, und da ich noch übrige Zeit hatte, begann ich mit der Implementation von ersten Erweiterungen. Wie zum Beispiel, dass es mir möglich ist, die Schriftart und Schriftgrösse aller Textfelder in meinem Projekt «auf einen Klick» zu ändern, (war zuvor wegen einigen Kompromissen nicht möglich). Dies gelang mir ebenfalls.
 <br />
 <br />
 Die nächst geplante Erweiterung, ist einen Voice-Controll in das Spiel zu implementieren. Für dessen Implementation ich mir auch schon einen möglichen Weg vorstellen kann.
