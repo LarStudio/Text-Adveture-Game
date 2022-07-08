@@ -19,4 +19,4 @@ Anschliessend wollte ich noch einen anderen Weg probieren, der mir vor allem in 
 Schlussendlich funktionierte aber auch dieser, und da ich noch übrige Zeit hatte, begann ich mit der Implementation von ersten Erweiterungen. Wie zum Beispiel, dass es mir möglich ist, die Schriftart und Schriftgrösse aller Textfelder in meinem Projekt «auf einen Klick» zu ändern, (war zuvor wegen einigen Kompromissen nicht möglich). Dies gelang mir ebenfalls.
 <br />
 <br />
-Die nächst geplante Erweiterung, ist einen Voice-Controll in das Spiel zu implementieren. Für dessen Implementation ich mir auch schon einen möglichen Weg vorstellen kann.
+Die nächst geplante Erweiterung, ist ein Voice-Controll in das Spiel zu implementieren. Für dessen Implementation ich mir auch schon einen möglichen Weg vorstellen kann.
