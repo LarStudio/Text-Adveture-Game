@@ -1,8 +1,7 @@
 # Text-Adveture-Game
 In diesem Repository befinden sich nur die Scripts der jeweiligen Anläufe/ Prototypen, da der Rest ohne Installation von Unity nicht viel Sinn machen würde bzw. nur verwirrend ist, nichts desto trotz kann ich auf Wunsch gerne auch den Rest hochladen.
-                    
-                                                            
-                                                              Maturwoche
+
+# the largest heading Maturwoche
 Mein Ziel war es, am Ende dieser Woche eine funktionierende State Machine zu haben, die beliebig erweitert werden kann.
 Mein erster Versuch war es, diese State Machine auf einer Website zu machen. Da ich in diesem Bereich noch keine Erfahrungen hatte, habe ich zuerst sehr viel Neues, fundamentales lernen müssen. Ich habe mich über die drei Hauptelementen einer Webseite informiert. HTML, CSS und Java Script.
 Bei der Implementation von dem UI stiess ich auf die ersten Schwierigkeiten, vor allem, weil ich versuchte, ein anständiges Format mit den unterschiedlichen Bildschirmauflösungen herzustellen. (Die Knöpfe waren viel zu klein etc.) Rückblicken würde ich sagen, ich habe zu viel Zeit damit verbracht, diese Probleme versuchen zu lösen.
